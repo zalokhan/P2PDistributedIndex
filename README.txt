@@ -29,6 +29,7 @@ Peer-
 The Peer also comprises of 2 files
 peer.java - comprises of the peer client as main as well as spawns a parallel running RFC server thread.
 rfcserver.java - A thread of this class is initiated every time a client contacts.
+Assume 2 folders RFC-A and RFC-B
 
 Store the RFC-A folder in the peer A machine. This is an empty folder.
 
